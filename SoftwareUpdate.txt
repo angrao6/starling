@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Improve Coral Edge TPU guide (#8160)
