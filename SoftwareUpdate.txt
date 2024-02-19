@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Avoid creating -hub dir without processing images (#8334)
